@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "Jaydeep Wagh",
+  profile: "/profile.png",
+  designation: "Software Engineer",
+  description:
+    "Hello, I am working in software industry since 14+ years now. Call me a product builder. Having worked with older technologies like Nokia Symbian, Java Mobile, BlackBerry 10 OS, Qt and Java Swing, I find bliss in working on many different technology stacks e.g. MERN. In the past, I have worked on all mobile, web and backend. I am a very versatile engineer who adapts to the enviornment very quickly and becomes deliverable at high speed. I love working on problems that impact the masses at scale.",
+  email: "jaydeep dot w at gmail dot com",
+  phone: "",
+  address: "Mumbai, India",
+  github: "https://github.com/jaydeepw",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/jaydeepw/",
+  twitter: "https://twitter.com/jaydeep_w",
+  stackOverflow: "https://stackoverflow.com/users/452487/jaydeepw",
+  leetcode: "",
+  devUsername: "",
+  resume:
+    "https://docs.google.com/document/d/1txugkgRoIMFa4NbzCiAfCn1HAcIMrgTp03dqFkoyTbg/edit?usp=sharing",
+};

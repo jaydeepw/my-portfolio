@@ -1,20 +1,28 @@
 export const educations = [
-  {
+  /* {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Member of Technical Staff (Full-time)",
+    duration: "May 2024 - Present",
+    institution: "Whileone TechSoft Pvt. Ltd.",
+    location: "Pune, India",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Independent Software Consultant",
+    duration: "2018 - May 2024",
+    institution: "Gaian Technologies",
+    location: "Hyderabad, India",
+  }, */
+  {
+    id: 1,
+    title: "Bachelor Degree",
+    duration: "2006 - 2010",
+    institution: "Pune Institute of Computer Technology, Pune, India",
   },
   {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    id: 2,
+    title: "Higher Scondary School",
+    duration: "2004 - 2006",
+    institution: "Jubilee Junior College, MH, India",
+  },
+];
