@@ -13,6 +13,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Jaydeep Wagh - Software Engineer",
   description: personalData.description,
+  other: {
+    "google-site-verification": "upXFjpBvQqFR5dNXSmg05ddsyW0TZ8lPJ9_0sDxuTVM",
+  },
 };
 
 export default function RootLayout({ children }) {

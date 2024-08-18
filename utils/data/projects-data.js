@@ -54,7 +54,7 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "Volare Technologies Pvt. Ltd, Tech. Lead",
+    name: "Volare Technologies Pvt. Ltd",
     year: "Jul 2010 - Oct 2016",
     role: "Tech Lead",
     description:
