@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Software Engineer",
   description:
-    "Hello, I am working in software industry since 14+ years now. Call me a product builder. Having worked with older technologies like Nokia Symbian, Java Mobile, BlackBerry 10 OS, Qt and Java Swing, I find bliss in working on many different technology stacks e.g. MERN. In the past, I have worked on all mobile, web and backend. I am a very versatile engineer who adapts to the enviornment very quickly and becomes deliverable at high speed. I love working on problems that impact the masses at scale.",
+    "Hello, I am working in the software industry since 14+ years now. Call me a product builder. Having worked with older technologies like Nokia Symbian, Java Mobile, BlackBerry 10 OS, Qt and Java Swing, I find bliss in working on many different technology stacks e.g. MERN. In the past, I have worked on mobile, web and backend. I am a very versatile engineer who adapts to the enviornment very quickly and becomes deliverable at high speed. I love working on problems that impact the masses at scale.",
   email: "jaydeep dot w at gmail dot com",
   phone: "",
   address: "Mumbai, India",
